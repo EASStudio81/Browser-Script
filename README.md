@@ -1,8 +1,8 @@
 # List deskripsi Script
 A. Inspect Script (Mobile)
 Recommended browser you use for this script..
-Chrome
-Edge
+Chrome,
+Edge,
 etc
 
 --------------------
