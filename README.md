@@ -1,9 +1,10 @@
 # List deskripsi Script
-1. Inspect Script (Mobile)
-Recommended Browser you use for this script..
-Chrome,
+A. Inspect Script (Mobile)
+Recommended browser you use for this script..
+Chrome
 Edge
 etc
+
 --------------------
 How to use the script on mobile
 1. Open your browser
